@@ -126,12 +126,18 @@
     <ClInclude Include="Authenticator.h" />
     <ClInclude Include="CommonUtilities.h" />
     <ClInclude Include="DataHandle.h" />
+    <ClInclude Include="EmailClassifier.h" />
+    <ClInclude Include="SpamFilter.h" />
+    <ClInclude Include="SubscriptionManager.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Authenticator.cpp" />
     <ClCompile Include="CommonUtilities.cpp" />
     <ClCompile Include="DataHandle.cpp" />
+    <ClCompile Include="EmailClassifier.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="SpamFilter.cpp" />
+    <ClCompile Include="SubscriptionManager.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

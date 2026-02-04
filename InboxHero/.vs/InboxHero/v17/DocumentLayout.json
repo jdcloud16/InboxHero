@@ -11,6 +11,30 @@
       "RelativeMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|solutionrelative:InboxHero\\DataHandle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SubscriptionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|solutionrelative:InboxHero\\SubscriptionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SubscriptionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|solutionrelative:InboxHero\\SubscriptionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SpamFilter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|solutionrelative:InboxHero\\SpamFilter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SpamFilter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|solutionrelative:InboxHero\\SpamFilter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\EmailClassifier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|solutionrelative:InboxHero\\EmailClassifier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\EmailClassifier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|solutionrelative:InboxHero\\EmailClassifier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\DataHandle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{78383871-73B4-4AFA-BF6C-CAE2CD4D803C}|InboxHero\\InboxHero.vcxproj|solutionrelative:InboxHero\\DataHandle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -38,8 +62,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriptionManager.cpp",
+              "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SubscriptionManager.cpp",
+              "RelativeDocumentMoniker": "InboxHero\\SubscriptionManager.cpp",
+              "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SubscriptionManager.cpp",
+              "RelativeToolTip": "InboxHero\\SubscriptionManager.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-04T07:41:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionManager.h",
+              "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SubscriptionManager.h",
+              "RelativeDocumentMoniker": "InboxHero\\SubscriptionManager.h",
+              "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SubscriptionManager.h",
+              "RelativeToolTip": "InboxHero\\SubscriptionManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T07:39:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpamFilter.cpp",
+              "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SpamFilter.cpp",
+              "RelativeDocumentMoniker": "InboxHero\\SpamFilter.cpp",
+              "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SpamFilter.cpp",
+              "RelativeToolTip": "InboxHero\\SpamFilter.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-04T07:34:22.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpamFilter.h",
+              "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SpamFilter.h",
+              "RelativeDocumentMoniker": "InboxHero\\SpamFilter.h",
+              "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\SpamFilter.h",
+              "RelativeToolTip": "InboxHero\\SpamFilter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T07:32:26.644Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +124,7 @@
               "RelativeDocumentMoniker": "InboxHero\\main.cpp",
               "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\main.cpp",
               "RelativeToolTip": "InboxHero\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAmwMgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T12:22:59.102Z",
               "EditorCaption": ""
@@ -61,27 +137,53 @@
               "RelativeDocumentMoniker": "InboxHero\\DataHandle.cpp",
               "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\DataHandle.cpp",
               "RelativeToolTip": "InboxHero\\DataHandle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T12:22:24.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "EmailClassifier.cpp",
+              "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\EmailClassifier.cpp",
+              "RelativeDocumentMoniker": "InboxHero\\EmailClassifier.cpp",
+              "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\EmailClassifier.cpp",
+              "RelativeToolTip": "InboxHero\\EmailClassifier.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-04T07:31:22.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailClassifier.h",
+              "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\EmailClassifier.h",
+              "RelativeDocumentMoniker": "InboxHero\\EmailClassifier.h",
+              "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\EmailClassifier.h",
+              "RelativeToolTip": "InboxHero\\EmailClassifier.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-04T07:26:37.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DataHandle.h",
               "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\DataHandle.h",
               "RelativeDocumentMoniker": "InboxHero\\DataHandle.h",
               "ToolTip": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\DataHandle.h",
               "RelativeToolTip": "InboxHero\\DataHandle.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-03T12:19:16.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "CommonUtilities.cpp",
               "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\CommonUtilities.cpp",
               "RelativeDocumentMoniker": "InboxHero\\CommonUtilities.cpp",
@@ -93,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "CommonUtilities.h",
               "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\CommonUtilities.h",
               "RelativeDocumentMoniker": "InboxHero\\CommonUtilities.h",
@@ -105,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Authenticator.h",
               "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\Authenticator.h",
               "RelativeDocumentMoniker": "InboxHero\\Authenticator.h",
@@ -117,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Authenticator.cpp",
               "DocumentMoniker": "C:\\Projects\\InboxHero\\InboxHero\\InboxHero\\Authenticator.cpp",
               "RelativeDocumentMoniker": "InboxHero\\Authenticator.cpp",

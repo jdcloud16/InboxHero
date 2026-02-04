@@ -1,2 +1,5 @@
 ﻿  main.cpp
+C:\Projects\InboxHero\InboxHero\InboxHero\main.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SubscriptionManager.cpp
+  Generating Code...
   InboxHero.vcxproj -> C:\Projects\InboxHero\InboxHero\x64\Debug\InboxHero.exe
